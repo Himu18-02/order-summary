@@ -1,3 +1,4 @@
 # order-summary
 
-https://himu18-02.github.io/order-summary/index.html
+https://himu18-02.github.io/order-summary/index
+
